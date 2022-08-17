@@ -5,7 +5,7 @@ function insert(number){
  }
  //Limpa a calculadora
  function clean(){
-     document.getElementById('Resultado').innerHTML = "";
+     document.getElementById('Resultado').innerHTML = "0";
  }
  //Apaga um numero
  function back(){
